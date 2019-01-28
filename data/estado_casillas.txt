@@ -1,0 +1,17 @@
+(dp0
+S'ahorcado'
+p1
+I80
+sS'celeste'
+p2
+I0
+sS'verde'
+p3
+I0
+sS'comodin'
+p4
+I0
+sS'violeta'
+p5
+I0
+s.

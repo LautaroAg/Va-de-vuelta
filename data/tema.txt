@@ -1,0 +1,3 @@
+S'animales'
+p0
+.
